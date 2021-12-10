@@ -31,11 +31,7 @@ Elite Website
     <img src="https://img.shields.io/github/watchers/im-parsa/elite-website.svg" alt="watchers">
 </p>
 
-<h1 align="center">
-    🚀 Getting Started
-</h1>
-
-<br/>
+## 🚀 Getting Started
 
 ```
 git clone https://github.com/im-parsa/elite-website.git
