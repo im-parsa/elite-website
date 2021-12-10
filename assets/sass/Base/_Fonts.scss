@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
+
+@font-face
+{
+  font-family: 'sans';
+  src: url('../../font/sans/IRANSansWebFaNum.eot');
+  src: url('../../font/sans/IRANSansWebFaNum.woff2') format('woff2'),
+  url('../../font/sans/IRANSansWebFaNum.woff') format('woff'),
+  url('../../font/sans/IRANSansWebFaNum.ttf') format('truetype'),
+  url('../../font/sans/IRANSansWebFaNum.svg') format('svg');
+}
+
+.sans
+{
+  font-family: 'sans', sans-serif;
+}

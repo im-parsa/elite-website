@@ -1,0 +1,74 @@
+#header
+{
+  overflow: hidden;
+  position: relative;
+  height: 8em;
+}
+
+/* Logo */
+
+#logo
+{
+  position: absolute;
+  top: 3em;
+  left: 0;
+}
+
+#logo h1 a
+{
+  float: left;
+  padding: 0em 0.25em 0em 0em;
+  letter-spacing: -1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 2.50em;
+  font-weight: 800;
+  color: #FFF;
+}
+
+/* Menu */
+
+#nav
+{
+  position: absolute;
+  top: 1.1em;
+  right: 0;
+}
+
+#nav ul
+{
+  text-align: center;
+}
+
+#nav li
+{
+  display: inline-block;
+}
+
+#nav a
+{
+  display: block;
+  float: left;
+  padding: 1em 1.5em;
+  border-radius: 4px;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.10em;
+  color: #FFF;
+  outline: 0;
+}
+
+#nav .current_page_item
+{}
+
+#nav .current_page_item a
+{
+  background: #ff7200;
+  box-shadow: inset 0px -15px 10px 0px rgba(0, 0, 0, 0.10);
+  text-shadow: none;
+  color: #FFFFFF;
+}
+
+#nav a:hover
+{}
