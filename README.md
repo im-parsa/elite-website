@@ -3,7 +3,7 @@
 <br/>
 Elite Website
 </h1>
-<p align="center">The open source website for those discord-bot developers can not develop their own website</p>
+<p align="center">The open source website for those discord-bot developers can not develop their own website (We develop this website 2 years ago)</p>
 
 <br/>
 
