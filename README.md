@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://cdn.discordapp.com/attachments/776425421968244768/918888416924540988/Elite-Orange.png" width="224px" alt="Elite Website"/>
 <br/>
-Nava Website
+Elite Website
 </h1>
 <p align="center">The open source website for those discord-bot developers can not develop their own website</p>
 
