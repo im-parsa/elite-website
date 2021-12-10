@@ -1111,7 +1111,6 @@ table.alt tbody tr td
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -moz-align-items: -moz-stretch;
-  -webkit-align-items: -webkit-stretch;
   -ms-align-items: -ms-stretch;
   align-items: stretch;
 }
@@ -1387,7 +1386,6 @@ table.alt tbody tr td
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   -moz-align-items: -moz-stretch;
-  -webkit-align-items: -webkit-stretch;
   -ms-align-items: -ms-stretch;
   align-items: stretch;
 }
@@ -3614,7 +3612,7 @@ ul.icons li .icon:before
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../../images/banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4057,7 +4055,7 @@ body.is-preload #banner:before
   background-color: #ff7200;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: linear-gradient(rgba(230, 126, 41, 0.911), rgba(0, 0, 0, 0.5)), url(../../images/cta01.jpg);
+  background-image: linear-gradient(rgba(230, 126, 41, 0.911), rgba(0, 0, 0, 0.5)), url(../../../images/cta01.jpg);
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4688,7 +4686,7 @@ body
 body:before
 {
   content: ' ';
-  background-image: url(../../images/bg.jpg);
+  background-image: url(../../../images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -4846,7 +4844,7 @@ body:before
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(17, 17, 17, 0.25)), url("../../images/banner.jpg");
+  background-image: linear-gradient(rgba(255, 255, 255, 0.25), rgba(17, 17, 17, 0.25)), url("../../../images/banner.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
